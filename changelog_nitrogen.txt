@@ -1,0 +1,112 @@
+====================
+     05-19-2023
+====================
+
+====================
+     05-18-2023
+====================
+
+   * art
+35ff9de Fix libart-compiler ReadBarrier flag init order
+
+   * bionic
+1cd79f3 Nullability check for time module.
+
+   * frameworks/av
+a4f4457 Tracks: Fix memory leak.
+
+   * frameworks/base
+c7b25090 SystemUI: Small cleanup 'Lockscreen text size'
+
+   * packages/apps/DeskClock
+b842c02 DeskClock: update digital widget
+
+   * packages/modules/Connectivity
+6853560 NetworkInfo: Prevent a NPE caused by null Network type
+
+====================
+     05-17-2023
+====================
+
+   * external/rsync
+cdb7e98 rsync: Move to /system_ext
+
+   * external/zstd
+e6a035a zstd: Move to /system_ext
+
+   * packages/apps/Launcher3
+3c935d8 Launcher3: HotseatEduController: Guard against some odd & rare NPE
+
+   * packages/apps/crDroidSettings
+03d2e39 crdroid: Move lockscreen clock customization to lockscreen settings
+
+   * vendor/addons
+bfe040b addons: Configure font spacing for various clock fonts
+
+====================
+     05-16-2023
+====================
+
+   * lineage-sdk
+862630a lineage-sdk: Bring our icon
+
+   * packages/apps/Aperture
+78e3fca Automatic translation import
+
+   * packages/apps/Etar
+54fec35 Automatic translation import
+
+   * packages/apps/Messaging
+24035b7 Messaging: Use light icons on conversations select menu
+
+   * packages/apps/Settings
+7855a4b Settings: fix crash
+
+   * vendor/crowdin
+13e8e77 Automatic translation import
+
+====================
+     05-15-2023
+====================
+
+====================
+     05-14-2023
+====================
+
+   * android
+b0a71f8 Merge 'lineage-20.0' into 13.0
+
+   * packages/apps/GameSpace
+d669b77 New Crowdin updates (#44)
+
+   * system/core
+811d583 Fix the return values of DmTable::valid to match the expected type
+
+   * system/netd
+7730fb8 Fix -Wnullable-to-nonnull-conversion errors
+
+====================
+     05-13-2023
+====================
+
+   * prebuilts/clang/host/linux-x86/clang-latest
+19f5a09 clang 17.0.2 (based on r487747c)
+
+====================
+     05-12-2023
+====================
+
+   * external/openssh
+e6133bc Merge commit 'abcaa080a6f53c70e70d21b22ad704df5f810b95' of https://android.googlesource.com/platform/external/openssh into lineage-20.0
+
+====================
+     05-11-2023
+====================
+
+   * device/qcom/sepolicy_vndr-legacy-um
+181fd5b bengal: Label emmc discard_max_bytes sysfs
+
+====================
+     05-10-2023
+====================
+

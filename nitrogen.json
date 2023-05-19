@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Sanek-creed",
+			"oem": "Xiaomi",
+			"device": "Xiaomi Mi Max 3",
+			"filename": "crDroidAndroid-13.0-20230519-nitrogen-v9.5.zip",
+                        "download": "https://sourceforge.net/projects/mi-max-3-nitrogen/files/crDroidAndroid-13.0-20230519-nitrogen-v9.5.zip/download",
+			"timestamp": 1684469707,
+			"md5": "e06ea3f37d1e52df5edfff8452a62ebe",
+			"sha256": "c4a7ce4ff13670d1536af6193bf5b3256a002309ca40547b558c99cb13f41501",
+			"size": 1022999307,
+			"version": "9.5",
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/rom-11-0-unofficial-crdroid-android-7-13-oxygen.4319731",
+			"gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/01-May-2022/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://t.me/MiMax2_3",
+			"paypal": "https://www.paypal.com/donate/?hosted_button_id=TXZH73YDPMKJL",
+			"telegram": "https://t.me/MiMax2_3",
+			"dt": "https://github.com/geminids14/android_kernel_xiaomi_msm8953",
+			"common-dt": "",
+			"kernel": "https://github.com/geminids14/android_kernel_xiaomi_msm8953"
+		}
+	]
+}
